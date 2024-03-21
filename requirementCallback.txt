@@ -1,6 +1,0 @@
-dash
-dash import dcc, html
-dash.dependencies import Input, Output
-pandas as pd
-plotly.express as px
-gunicorn
